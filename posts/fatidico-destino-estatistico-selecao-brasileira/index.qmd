@@ -1,0 +1,37 @@
+---
+title: "O fatídico destino estatístico da seleção brasileira"
+description: "Um rascunho de análise sobre padrões, expectativas e frustrações recentes da seleção brasileira de futebol."
+date: "2026-07-08"
+categories: [sports, statistics, futebol, brasil]
+lang: pt-BR
+---
+
+Este artigo ainda está em preparação. A ideia é investigar, com dados, se existe um padrão estatístico por trás das frustrações recentes da seleção brasileira.
+
+## Pergunta Central
+
+O Brasil está apenas passando por uma sequência ruim de torneios, ou há sinais mensuráveis de mudança estrutural no desempenho da seleção?
+
+## Dados Que Podemos Usar
+
+Algumas linhas possíveis para a análise:
+
+- desempenho em Copas do Mundo desde 1994;
+- ranking Elo ou FIFA ao longo do tempo;
+- resultados contra seleções de elite;
+- gols esperados, quando disponíveis;
+- idade média do elenco;
+- participação de jogadores em grandes ligas;
+- desempenho em mata-mata versus fase de grupos.
+
+## Hipóteses
+
+Uma primeira versão do artigo pode comparar três ideias:
+
+1. o Brasil continua forte, mas sofre com variância em torneios curtos;
+2. o Brasil perdeu vantagem relativa contra outras seleções de elite;
+3. o problema é mais de estrutura competitiva, calendário e geração de talentos do que de talento individual.
+
+## Próximo Passo
+
+O próximo passo é escolher as bases de dados e definir exatamente quais perguntas estatísticas o artigo vai responder.

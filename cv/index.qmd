@@ -1,0 +1,165 @@
+---
+title: "CV"
+subtitle: "Machine Learning & Optimization Scientist · PhD"
+pagetitle: "CV"
+toc: true
+toc-title: "On this page"
+---
+
+::: {.cv-actions}
+[Download CV (PDF)](../assets/Alan-Lahoud-CV.pdf){.btn .btn-primary download="Alan-Lahoud-CV.pdf"}
+[LinkedIn](https://www.linkedin.com/in/lahoudalan/){.btn .btn-outline-secondary}
+[Google Scholar](https://scholar.google.com/citations?user=CUQbNfIAAAAJ&hl=en){.btn .btn-outline-secondary}
+[GitHub](https://github.com/AlanLahoud){.btn .btn-outline-secondary}
+:::
+
+São Paulo, Brazil · Dresden, Germany · [lahoudalan93@gmail.com](mailto:lahoudalan93@gmail.com)
+
+## Summary
+
+Machine learning scientist with 8 years of experience turning predictive models into business decisions. I combine machine learning with operations research (MILP, convex optimization, dynamic programming) to solve pricing, forecasting, scheduling and allocation problems. PhD in Computer Science on predict-and-optimize methods, with industry research alongside H&M.
+
+## Experience
+
+::: {.cv-item}
+### Independent ML & Optimization Consultant
+[Jul 2025 – present]{.cv-date}
+:::
+
+::: {.cv-item .cv-sub}
+#### Hyatus Living
+[Jul 2025 – present]{.cv-date}
+
+[New York, USA (remote) · Serviced apartments]{.cv-meta}
+
+Lead data scientist for pricing and forecasting, reporting to the CTO.
+
+- Ran A/B tests of dynamic pricing. One test raised RevPAR by about 3%.
+- Built forecasts of occupancy, revenue and year-over-year performance for the coming months, used in business planning.
+- Built a revenue forecasting model to evaluate new markets.
+- Trained an ML model on OR optimizer outputs to price stays by calendar fit, discounting stays that avoid calendar collisions.
+- Developed a MILP model that assigns bookings to units, matching guest preferences without scheduling conflicts.
+- Built dynamic pricing for houses from the occupancy of comparable listings.
+:::
+
+::: {.cv-item .cv-sub}
+#### Dapper Global
+[Sep 2026 – present]{.cv-date}
+
+[Colombia (remote)]{.cv-meta}
+
+- Building an ML model that predicts whether a bill becomes law in Latin American countries.
+- Adding an explainability layer that shows the factors behind each prediction.
+:::
+
+::: {.cv-item .cv-sub}
+#### Whaamkabaam · Consulting client
+[Mar 2026 – Jun 2026]{.cv-date}
+
+[Berlin, Germany (remote)]{.cv-meta}
+
+- Built personalized, adaptive mouse acceleration curves for gamers, used by players in the product through July 2026.
+- Applied control and online learning so each curve adapts to the individual player.
+:::
+
+::: {.cv-item}
+### Research Partner (PhD) · H&M
+[2021 – 2024]{.cv-date}
+
+[Sweden]{.cv-meta}
+
+- Researched predict-and-optimize methods combining neural networks with optimization, in an industry collaboration with H&M.
+- Co-authored peer-reviewed papers with H&M researchers.
+:::
+
+::: {.cv-item}
+### Data Analyst · BTG Pactual
+[2020 – 2021]{.cv-date}
+
+[São Paulo, Brazil · Investment bank]{.cv-meta}
+
+- Built predictive and clustering models to identify customer personas and drive partner product recommendations.
+- Built the main Power BI dashboards for consumer banking spending, client onboarding and cards.
+:::
+
+::: {.cv-item}
+### Data Scientist · Big Data Brasil
+[2018 – 2020]{.cv-date}
+
+[São Paulo, Brazil · Data consultancy]{.cv-meta}
+
+- Built predictive ML models and web crawlers for client projects.
+- Helped design a recommendation system for a supplier and an expansion strategy system for a pharmacy chain.
+:::
+
+## Education
+
+::: {.cv-item}
+### PhD in Computer Science · Örebro University, Sweden
+[2021 – 2025]{.cv-date}
+
+Thesis on neural networks combined with dynamic, quadratic and linear programming. Affiliated with the WASP research program.
+:::
+
+::: {.cv-item}
+### Exchange Master's, Engineering Mathematics · Lund University, Sweden
+[2017 – 2018]{.cv-date}
+
+Courses in AI, deep learning and computer vision.
+:::
+
+::: {.cv-item}
+### BSc in Electrical & Electronic Engineering · University of São Paulo, Brazil
+[2013 – 2018]{.cv-date}
+:::
+
+## Selected Publications
+
+Full list on [Google Scholar](https://scholar.google.com/citations?user=CUQbNfIAAAAJ&hl=en).
+
+::: {.pub-list}
+- **[Inverse Optimization Latent Variable Models for Learning Costs Applied to Route Problems](https://proceedings.neurips.cc/paper_files/paper/2025/hash/b7d9fad0adaa5dbb85178f96d8f6bfeb-Abstract-Conference.html)**\
+  Lahoud, Schaffernicht, Stork · *NeurIPS 2025*\
+  [paper](https://proceedings.neurips.cc/paper_files/paper/2025/hash/b7d9fad0adaa5dbb85178f96d8f6bfeb-Abstract-Conference.html){.pub-link} [arXiv](https://arxiv.org/abs/2509.15999){.pub-link} [code](https://github.com/AlanLahoud/IO-LVM){.pub-link}
+- **[ZipMPC: Compressed Context-Dependent MPC Cost via Imitation Learning](https://proceedings.mlr.press/v305/rickenbach25a.html)**\
+  Rickenbach, Lahoud, Schaffernicht, Zeilinger, Stork · *CoRL 2025*\
+  [paper](https://proceedings.mlr.press/v305/rickenbach25a.html){.pub-link} [arXiv](https://arxiv.org/abs/2507.13088){.pub-link} [project page](https://zipmpc.github.io/){.pub-link} [code](https://github.com/AlanLahoud/ZipMPC){.pub-link}
+- **[DataSP: A Differential All-to-All Shortest Path Algorithm for Learning Costs and Predicting Paths with Context](https://proceedings.mlr.press/v244/lahoud24a.html)**\
+  Lahoud, Schaffernicht, Stork · *UAI 2024*\
+  [paper](https://proceedings.mlr.press/v244/lahoud24a.html){.pub-link} [arXiv](https://arxiv.org/abs/2405.04923){.pub-link} [code](https://github.com/AlanLahoud/dataSP){.pub-link}
+- **Predict-and-Optimize Techniques for Data-Driven Optimization Problems: A Review**\
+  Lahoud, Khan, Schaffernicht, Trincavelli, Stork · *Neural Processing Letters 2025*
+- **Learning Solutions of Stochastic Optimization Problems with Bayesian Neural Networks**\
+  Lahoud, Schaffernicht, Stork · *ICANN 2024*
+:::
+
+## Awards
+
+- **5th of 5,558 teams**, Kaggle M5 Forecasting (2020): retail demand forecasting, US\$ 2,000 prize.
+- **Silver medal**, Brazilian Mathematical Olympiad of Public Schools (2010).
+
+## Skills
+
+::: {.skill-group}
+**Machine learning**
+[Python]{.chip} [PyTorch]{.chip} [scikit-learn]{.chip} [Forecasting]{.chip} [A/B testing]{.chip} [Explainable ML]{.chip}
+:::
+
+::: {.skill-group}
+**Optimization & OR**
+[MILP]{.chip} [Convex / QP]{.chip} [Dynamic programming]{.chip} [MPC]{.chip} [CVXPY]{.chip} [PuLP]{.chip} [OR-Tools]{.chip} [MiniZinc]{.chip} [CasADi]{.chip}
+:::
+
+::: {.skill-group}
+**Data & engineering**
+[SQL]{.chip} [PySpark]{.chip} [AWS]{.chip} [Git]{.chip} [Streamlit]{.chip} [Power BI]{.chip} [REST APIs]{.chip}
+:::
+
+::: {.skill-group}
+**Generative AI**
+[LLM agents]{.chip} [RAG]{.chip}
+:::
+
+## Languages
+
+Portuguese (native) · English (fluent) · Swedish (basic)

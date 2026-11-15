@@ -1,0 +1,282 @@
+:root {
+  --ink: #1f2933;
+  --muted: #617083;
+  --line: #d7dee8;
+  --surface: #f7f9fb;
+  --surface-strong: #edf4f7;
+  --teal: #0f766e;
+  --coral: #d85c4a;
+  --gold: #b88722;
+}
+
+body {
+  color: var(--ink);
+  background: #fff;
+}
+
+.navbar {
+  border-bottom: 1px solid var(--line);
+}
+
+.quarto-title-block {
+  margin-bottom: 1.5rem;
+}
+
+.home-hero {
+  display: grid;
+  grid-template-columns: minmax(320px, 1.1fr) minmax(0, 0.9fr);
+  gap: 2rem;
+  align-items: center;
+  margin: 1rem 0 3rem;
+}
+
+.home-hero img {
+  width: 100%;
+  max-width: 320px;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+  border-radius: 50%;
+  border: 4px solid #fff;
+  box-shadow: 0 0 0 1px var(--line), 0 8px 24px rgba(31, 41, 51, 0.12);
+  display: block;
+  margin: 0 auto;
+}
+
+.home-intro h1 {
+  margin-bottom: 0.75rem;
+  font-size: clamp(2.25rem, 5vw, 4.5rem);
+  letter-spacing: 0;
+  line-height: 1;
+}
+
+.home-intro p {
+  color: var(--muted);
+  font-size: 1.1rem;
+  line-height: 1.6;
+  max-width: 34rem;
+}
+
+.btn-primary {
+  background: var(--teal);
+  border-color: var(--teal);
+}
+
+.btn-primary:hover {
+  background: #0b5f59;
+  border-color: #0b5f59;
+}
+
+.btn-outline-secondary {
+  color: var(--ink);
+  border-color: var(--line);
+}
+
+.topic-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 1rem;
+  margin: 1rem 0 2.5rem;
+}
+
+.topic {
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  padding: 1rem;
+  background: var(--surface);
+}
+
+.topic h3 {
+  margin-top: 0;
+  font-size: 1.1rem;
+}
+
+.topic p {
+  color: var(--muted);
+}
+
+.listing-title a {
+  color: var(--teal);
+}
+
+.listing-category {
+  border-color: rgba(15, 118, 110, 0.25);
+  color: var(--teal);
+  background: var(--surface-strong);
+}
+
+
+/* Stats on home */
+.stat-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 1rem;
+  margin: 0 0 2.5rem;
+}
+
+.stat {
+  border-left: 3px solid var(--teal);
+  padding: 0.25rem 0 0.25rem 1rem;
+}
+
+.stat p {
+  color: var(--muted);
+  margin-bottom: 0;
+}
+
+.stat-value {
+  display: block;
+  font-size: 1.6rem;
+  font-weight: 700;
+  color: var(--ink);
+  line-height: 1.2;
+  margin-bottom: 0.35rem;
+}
+
+.home-intro .btn {
+  margin: 0.25rem 0.35rem 0.25rem 0;
+}
+
+/* CV page */
+.cv-actions {
+  margin: 0 0 1rem;
+}
+
+.cv-actions .btn {
+  margin: 0.25rem 0.35rem 0.25rem 0;
+}
+
+.cv-item {
+  position: relative;
+  margin: 1.25rem 0 1.5rem;
+}
+
+.cv-item h3,
+.cv-item h4 {
+  margin: 0 0 0.15rem;
+  padding-right: 11rem;
+  font-size: 1.1rem;
+}
+
+.cv-item h4 {
+  font-size: 1.02rem;
+}
+
+.cv-sub {
+  margin-left: 1rem;
+  padding-left: 1rem;
+  border-left: 2px solid var(--line);
+}
+
+.cv-date {
+  position: absolute;
+  top: 0.1rem;
+  right: 0;
+  color: var(--teal);
+  font-size: 0.9rem;
+  font-weight: 600;
+  white-space: nowrap;
+}
+
+.cv-meta {
+  display: block;
+  color: var(--muted);
+  font-size: 0.92rem;
+  margin-bottom: 0.4rem;
+}
+
+.cv-item ul {
+  margin-top: 0.35rem;
+}
+
+.pub-list ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+.pub-list li {
+  margin-bottom: 0.9rem;
+}
+
+.pub-list li > p {
+  margin-bottom: 0;
+}
+
+.pub-list a {
+  color: var(--ink);
+  text-decoration: none;
+}
+
+.pub-list strong,
+.pub-list strong a {
+  font-weight: 700;
+}
+
+.pub-list a:hover {
+  color: var(--teal);
+  text-decoration: underline;
+}
+
+.pub-link {
+  display: inline-block;
+  margin: 0.3rem 0.3rem 0 0;
+  padding: 0.05rem 0.55rem;
+  border: 1px solid rgba(15, 118, 110, 0.35);
+  border-radius: 4px;
+  font-size: 0.82rem;
+  color: var(--teal) !important;
+  background: var(--surface-strong);
+}
+
+.skill-group {
+  margin-bottom: 0.9rem;
+}
+
+.skill-group p {
+  margin-bottom: 0.25rem;
+}
+
+.chip {
+  display: inline-block;
+  padding: 0.12rem 0.6rem;
+  margin: 0.15rem 0.2rem 0.15rem 0;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  background: var(--surface);
+  font-size: 0.88rem;
+}
+
+@media (max-width: 800px) {
+  .home-hero,
+  .stat-grid,
+  .topic-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .home-hero {
+    gap: 1.25rem;
+  }
+
+  .home-hero > :last-child {
+    order: -1;
+  }
+
+  .home-hero img {
+    max-width: 180px;
+    margin: 0;
+  }
+
+  .cv-date {
+    position: static;
+    display: block;
+    margin-bottom: 0.25rem;
+  }
+
+  .cv-item h3,
+  .cv-item h4 {
+    padding-right: 0;
+  }
+
+  .cv-sub {
+    margin-left: 0;
+  }
+}

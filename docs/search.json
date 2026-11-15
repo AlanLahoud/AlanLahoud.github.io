@@ -1,0 +1,86 @@
+[
+  {
+    "objectID": "cv/index.html",
+    "href": "cv/index.html",
+    "title": "CV",
+    "section": "",
+    "text": "Download CV (PDF) LinkedIn Google Scholar GitHub\nSão Paulo, Brazil · Dresden, Germany · lahoudalan93@gmail.com"
+  },
+  {
+    "objectID": "cv/index.html#summary",
+    "href": "cv/index.html#summary",
+    "title": "CV",
+    "section": "Summary",
+    "text": "Summary\nMachine learning scientist with 8 years of experience turning predictive models into business decisions. I combine machine learning with operations research (MILP, convex optimization, dynamic programming) to solve pricing, forecasting, scheduling and allocation problems. PhD in Computer Science on predict-and-optimize methods, with industry research alongside H&M."
+  },
+  {
+    "objectID": "cv/index.html#experience",
+    "href": "cv/index.html#experience",
+    "title": "CV",
+    "section": "Experience",
+    "text": "Experience\n\nIndependent ML & Optimization Consultant\nJul 2025 – present\n\n\nHyatus Living\nJul 2025 – present\nNew York, USA (remote) · Serviced apartments\nLead data scientist for pricing and forecasting, reporting to the CTO.\n\nRan A/B tests of dynamic pricing. One test raised RevPAR by about 3%.\nBuilt forecasts of occupancy, revenue and year-over-year performance for the coming months, used in business planning.\nBuilt a revenue forecasting model to evaluate new markets.\nTrained an ML model on OR optimizer outputs to price stays by calendar fit, discounting stays that avoid calendar collisions.\nDeveloped a MILP model that assigns bookings to units, matching guest preferences without scheduling conflicts.\nBuilt dynamic pricing for houses from the occupancy of comparable listings.\n\n\n\nDapper Global\nSep 2026 – present\nColombia (remote)\n\nBuilding an ML model that predicts whether a bill becomes law in Latin American countries.\nAdding an explainability layer that shows the factors behind each prediction.\n\n\n\nWhaamkabaam · Consulting client\nMar 2026 – Jun 2026\nBerlin, Germany (remote)\n\nBuilt personalized, adaptive mouse acceleration curves for gamers, used by players in the product through July 2026.\nApplied control and online learning so each curve adapts to the individual player.\n\n\n\nResearch Partner (PhD) · H&M\n2021 – 2024\nSweden\n\nResearched predict-and-optimize methods combining neural networks with optimization, in an industry collaboration with H&M.\nCo-authored peer-reviewed papers with H&M researchers.\n\n\n\nData Analyst · BTG Pactual\n2020 – 2021\nSão Paulo, Brazil · Investment bank\n\nBuilt predictive and clustering models to identify customer personas and drive partner product recommendations.\nBuilt the main Power BI dashboards for consumer banking spending, client onboarding and cards.\n\n\n\nData Scientist · Big Data Brasil\n2018 – 2020\nSão Paulo, Brazil · Data consultancy\n\nBuilt predictive ML models and web crawlers for client projects.\nHelped design a recommendation system for a supplier and an expansion strategy system for a pharmacy chain."
+  },
+  {
+    "objectID": "cv/index.html#education",
+    "href": "cv/index.html#education",
+    "title": "CV",
+    "section": "Education",
+    "text": "Education\n\nPhD in Computer Science · Örebro University, Sweden\n2021 – 2025\nThesis on neural networks combined with dynamic, quadratic and linear programming. Affiliated with the WASP research program.\n\n\nExchange Master’s, Engineering Mathematics · Lund University, Sweden\n2017 – 2018\nCourses in AI, deep learning and computer vision.\n\n\nBSc in Electrical & Electronic Engineering · University of São Paulo, Brazil\n2013 – 2018"
+  },
+  {
+    "objectID": "cv/index.html#selected-publications",
+    "href": "cv/index.html#selected-publications",
+    "title": "CV",
+    "section": "Selected Publications",
+    "text": "Selected Publications\nFull list on Google Scholar.\n\n\nInverse Optimization Latent Variable Models for Learning Costs Applied to Route Problems\nLahoud, Schaffernicht, Stork · NeurIPS 2025\npaper arXiv code\nZipMPC: Compressed Context-Dependent MPC Cost via Imitation Learning\nRickenbach, Lahoud, Schaffernicht, Zeilinger, Stork · CoRL 2025\npaper arXiv project page code\nDataSP: A Differential All-to-All Shortest Path Algorithm for Learning Costs and Predicting Paths with Context\nLahoud, Schaffernicht, Stork · UAI 2024\npaper arXiv code\nPredict-and-Optimize Techniques for Data-Driven Optimization Problems: A Review\nLahoud, Khan, Schaffernicht, Trincavelli, Stork · Neural Processing Letters 2025\nLearning Solutions of Stochastic Optimization Problems with Bayesian Neural Networks\nLahoud, Schaffernicht, Stork · ICANN 2024"
+  },
+  {
+    "objectID": "cv/index.html#awards",
+    "href": "cv/index.html#awards",
+    "title": "CV",
+    "section": "Awards",
+    "text": "Awards\n\n5th of 5,558 teams, Kaggle M5 Forecasting (2020): retail demand forecasting, US$ 2,000 prize.\nSilver medal, Brazilian Mathematical Olympiad of Public Schools (2010)."
+  },
+  {
+    "objectID": "cv/index.html#skills",
+    "href": "cv/index.html#skills",
+    "title": "CV",
+    "section": "Skills",
+    "text": "Skills\n\nMachine learning Python PyTorch scikit-learn Forecasting A/B testing Explainable ML\n\n\nOptimization & OR MILP Convex / QP Dynamic programming MPC CVXPY PuLP OR-Tools MiniZinc CasADi\n\n\nData & engineering SQL PySpark AWS Git Streamlit Power BI REST APIs\n\n\nGenerative AI LLM agents RAG"
+  },
+  {
+    "objectID": "cv/index.html#languages",
+    "href": "cv/index.html#languages",
+    "title": "CV",
+    "section": "Languages",
+    "text": "Languages\nPortuguese (native) · English (fluent) · Swedish (basic)"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "Go to Home"
+  },
+  {
+    "objectID": "home/index.html",
+    "href": "home/index.html",
+    "title": "Alan Lahoud",
+    "section": "",
+    "text": "Machine learning & optimization scientist with a PhD in Computer Science. For the past 8 years I have been turning predictive models into business decisions in pricing, forecasting, scheduling and allocation.\nI combine machine learning with operations research (MILP, convex optimization, dynamic programming), and I publish on predict-and-optimize methods at venues such as NeurIPS, UAI and CoRL.\nView CV Download PDF LinkedIn"
+  },
+  {
+    "objectID": "home/index.html#what-i-work-on",
+    "href": "home/index.html#what-i-work-on",
+    "title": "Alan Lahoud",
+    "section": "What I Work On",
+    "text": "What I Work On\n\n\nPricing\nDynamic pricing and A/B tests that measure real revenue impact, from serviced apartments to retail.\n\n\nForecasting\nForecasts of demand, occupancy and revenue that feed planning, plus explainable models whose predictions people can trust.\n\n\nOptimization\nMILP, convex optimization and MPC for scheduling, allocation and routing, often learned end to end with neural networks."
+  },
+  {
+    "objectID": "home/index.html#currently",
+    "href": "home/index.html#currently",
+    "title": "Alan Lahoud",
+    "section": "Currently",
+    "text": "Currently\nI work as an independent ML & optimization consultant. I am lead data scientist for pricing and forecasting at Hyatus Living (New York, remote), and I build forecasting models for Dapper Global in the public affairs space.\nI did my PhD at Örebro University (Sweden), within the WASP program, researching predict-and-optimize methods in collaboration with H&M.\nlahoudalan93@gmail.com"
+  }
+]

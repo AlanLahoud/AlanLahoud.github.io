@@ -1,0 +1,8 @@
+.quarto/
+.cache/
+/.Rproj.user/
+/.venv/
+__pycache__/
+
+/.quarto/
+**/*.quarto_ipynb

@@ -1,0 +1,53 @@
+project:
+  type: website
+  output-dir: docs
+  # Posts are kept in the repo but not published for now.
+  # To publish the blog again, add "posts/**" here and the Posts link to the navbar.
+  render:
+    - index.qmd
+    - home/index.qmd
+    - cv/index.qmd
+  resources:
+    - assets/Alan-Lahoud-CV.pdf
+
+website:
+  title: "Alan Lahoud"
+  site-url: "https://alanlahoud.github.io/"
+  description: "Alan Lahoud, machine learning and optimization scientist (PhD). Pricing, forecasting and decision systems."
+  navbar:
+    pinned: true
+    left:
+      - href: home/
+        text: Home
+      - href: cv/
+        text: CV
+    right:
+      - icon: linkedin
+        href: https://www.linkedin.com/in/lahoudalan/
+        aria-label: LinkedIn
+      - icon: mortarboard
+        href: https://scholar.google.com/citations?user=CUQbNfIAAAAJ&hl=en
+        aria-label: Google Scholar
+      - icon: github
+        href: https://github.com/AlanLahoud
+        aria-label: GitHub
+  page-footer:
+    left: "© 2026 Alan Lahoud"
+    right:
+      - icon: linkedin
+        href: https://www.linkedin.com/in/lahoudalan/
+      - icon: mortarboard
+        href: https://scholar.google.com/citations?user=CUQbNfIAAAAJ&hl=en
+      - icon: github
+        href: https://github.com/AlanLahoud
+
+format:
+  html:
+    theme:
+      light: cosmo
+    css: styles.css
+    toc: true
+    smooth-scroll: true
+
+execute:
+  freeze: auto

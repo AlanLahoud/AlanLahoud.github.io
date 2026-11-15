@@ -1,0 +1,10 @@
+---
+title: "Welcome"
+description: "A starting point for future analysis notes on statistics, sports, and optimization."
+date: "2026-07-08"
+categories: [statistics, sports, optimization]
+---
+
+This is the first note on the new Quarto site. It gives the repository a real post structure while leaving room for longer analytical writeups.
+
+Future posts can live under `posts/<post-name>/index.qmd` with front matter for title, description, date, and categories.

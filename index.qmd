@@ -1,0 +1,10 @@
+---
+title: "Home"
+toc: false
+---
+
+```{=html}
+<meta http-equiv="refresh" content="0; url=home/">
+<link rel="canonical" href="home/">
+<p><a href="home/">Go to Home</a></p>
+```

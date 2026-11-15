@@ -1,0 +1,13 @@
+---
+title: "Posts"
+description: "Analysis notes on statistics, sports, pricing, optimization, and interesting data questions."
+listing:
+  contents: "*/index.qmd"
+  sort: "date desc"
+  type: default
+  categories: true
+  feed: true
+page-layout: full
+---
+
+This is the index for future analysis posts. New posts can be added as folders under `posts/`, for example `posts/sports-rating-model/index.qmd`.
