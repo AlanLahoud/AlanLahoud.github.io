@@ -46,6 +46,10 @@ format:
     theme:
       light: cosmo
     css: styles.css
+    include-in-header:
+      - text: |
+          <script data-goatcounter="https://lahoudalan.goatcounter.com/count"
+                  async src="//gc.zgo.at/count.js"></script>
     toc: true
     smooth-scroll: true
 
